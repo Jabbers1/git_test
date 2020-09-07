@@ -1,1 +1,1 @@
-This is Jabbers1 first git project!
+This is Jabbers1 first git project, awesome!
